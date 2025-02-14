@@ -12,9 +12,9 @@ This project features a clean user interface, smooth animations, and an intuitiv
 ## Project Structure
 
 calculator/
-├── index.html      # Main HTML file containing the calculator layout.
-├── style.css       # CSS file for styling the calculator.
-└── script.js       # JavaScript file for calculator functionality.
+index.html      # Main HTML file containing the calculator layout.
+style.css       # CSS file for styling the calculator.
+script.js       # JavaScript file for calculator functionality.
 
 ## Getting Started
 
